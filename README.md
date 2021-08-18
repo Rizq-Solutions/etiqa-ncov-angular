@@ -1,4 +1,4 @@
-### Etiqa Angular assessesment with Bootstrap 10.0.0 + Karma & Jasmine. Ncov(Covid-19) Tracker Frontend built and done by R. Aidy.
+### Etiqa Angular assessesment with Bootstrap 10.0.0 + Karma & Jasmine. Ncov(Covid-19) Tracker Frontend built deployed done by R. Aidy.
 <img src="https://github.com/Rizq-Solutions/ng-etiqa-covid-tracker/blob/rizqbazaar/src/assets/img/theme/pan01.png" width="100%"><br>
 #### The Overview Page.
 <img src="https://github.com/Rizq-Solutions/ng-etiqa-covid-tracker/blob/rizqbazaar/src/assets/img/theme/pan02.png" width="100%"><br>
