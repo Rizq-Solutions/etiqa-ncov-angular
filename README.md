@@ -1,16 +1,4 @@
-# Etiqa Angular assessesment with Bootstrap 10.0.0 + Karma & Jasmine. Ncov(Covid-19) Tracker Frontend built and done by R. Aidy.
-<img src="https://github.com/Rizq-Solutions/ng-etiqa-covid-tracker/blob/rizqbazaar/src/assets/img/theme/pan01.png" width="100%"><br>
-## The Overview Page.
-<img src="https://github.com/Rizq-Solutions/ng-etiqa-covid-tracker/blob/rizqbazaar/src/assets/img/theme/pan02.png" width="100%"><br>
-## The Profile Page.
-<img src="https://github.com/Rizq-Solutions/ng-etiqa-covid-tracker/blob/rizqbazaar/src/assets/img/theme/pan03.png" width="100%"><br>
-## The GraphTracker Page.
-<img src="https://github.com/Rizq-Solutions/ng-etiqa-covid-tracker/blob/rizqbazaar/src/assets/img/theme/pan04.png" width="100%"><br>
-## The Admin Drop Down Menu.
-<img src="https://github.com/Rizq-Solutions/ng-etiqa-covid-tracker/blob/rizqbazaar/src/assets/img/theme/pan05.png" width="100%"><br>
-## Left Sidebar Navigation Menu.
-<img src="https://github.com/Rizq-Solutions/ng-etiqa-covid-tracker/blob/rizqbazaar/src/assets/img/theme/panorama.png" width="100%"><br>
-## Finally The Pandemic Tracker Page Itself API taken from https://Disease.Sh 
+# [Etiqa Ncov Tracker in Angular by R. Aidy]
 ## ** Angular Live Development Server is listening on localhost:4200, open your browser on http://localhost:4200/ **
 
 ### Complex Documentation
