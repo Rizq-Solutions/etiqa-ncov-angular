@@ -1,4 +1,4 @@
-# Etiqa Angular Ncov Tracker Assessesment with Angular + Bootstrap 4.0 + Jasmine by R. Aidy
+# Etiqa Angular Ncov Tracker Assessesment with Angular + Bootstrap 10.0.0 + Karma & Jasmine by R. Aidy
 <img src="https://github.com/Rizq-Solutions/ng-etiqa-covid-tracker/blob/rizqbazaar/src/assets/img/theme/pan01.png" width="100%"><br>
 ## The Overview Page.
 <img src="https://github.com/Rizq-Solutions/ng-etiqa-covid-tracker/blob/rizqbazaar/src/assets/img/theme/pan02.png" width="100%"><br>
