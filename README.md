@@ -1,6 +1,7 @@
-## PWA Powered Angular ver12+ Frontend Presentation - Ncov(Covid-19)Tracker Assessment by R. Aidy. 
-Built using Angular ver12++ + Ng-Bootstrap(npm) running as project, be deployed running live on Vercel Cloud - [https://ng-etiqa-covid-tracker.vercel.app/].
-Request tasks given by Etiqa The Islamic Leader in Takaful Businesses Insurances for ASEAN Region.
+## PWA Powered Angular ver 12+ FE Development:
+### API-WEB Based Ncov(Covid-19) Tracker, An assessment done code by R. Aidy. 
+Built with recent Angular ver12++ + Ng-Bootstrap(npm) running deployed live as project on Cloud - [https://ng-etiqa-covid-tracker.vercel.app/].
+Project Requested by Etiqa - The Leader in Islamic Takaful Businesses Insurance for ASEAN.
 ### ** Angular Live Development Server is listening on localhost:4200, After installing CLI this with $ npm i or $ yarn please navigate point load your default browser - http://localhost:4200/ **
 
 ### Complex Documentation
