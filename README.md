@@ -1,4 +1,4 @@
-### PWA Angular Based - Ncov(Covid-19)Tracker Assessment. 
+### PWA Angular Based - Ncov(Covid-19)Tracker Assessment by R. Aidy. 
 #### An Angular + Ng Bootstrap Frontend Development running as an assessment for R. Aidy required by Etiqa.<br> The Islamic Takaful Insurance Agency for ASEAN.
 ## ** Angular Live Development Server is listening on localhost:4200, open your browser on http://localhost:4200/ **
 
