@@ -1,8 +1,9 @@
 ## PWA Powered Angular ver 12+ FE Development:
-### API-WEB Based Ncov(Covid-19) Tracker, an assessment code done by R. Aidy. 
-Built upon stable recent ver12 ++ Angular + NPM's Ng-Bootstrap deployed running live as project on Cloud - [https://ng-etiqa-covid-tracker.vercel.app/].
-A Project Assessment Required by "Etiqa", The Leader in Islamic Takaful Businesses Insurance for ASEAN.
-### ** This PWA Angular will be locally running at port:4200 /localhost please point your browser  to - http://localhost:4200/ **
+### API-WEB Based Ncov(Covid-19) Tracker, An Assessment Built w/ Ng TypeScript by R. AIDY
+Built w/ stable Angular-ver12 + NPM's Ng-Bootstrap + Karma & Jasmine - Unit Test and 
+Securely Deployed on live Cloud Staging as Production - [https://ng-etiqa-covid-tracker.vercel.app/].
+An Assessment Project  Requested by ETIQA - The Leader with Islamic Takaful Businesses Insurance for ASEAN.
+### ** TAKE NOTE !!: This pwa angular ncov tracker should be running locally @ port:4200 in staging test environtment - http://localhost:4200/ **
 <img src="https://github.com/Rizq-Solutions/ng-etiqa-covid-tracker/blob/rizqbazaar/src/assets/img/theme/pan01.png" width="100%"><br>
 #### The Overview Page.
 <img src="https://github.com/Rizq-Solutions/ng-etiqa-covid-tracker/blob/rizqbazaar/src/assets/img/theme/pan02.png" width="100%"><br>
