@@ -2,7 +2,7 @@
 ### API-WEB Based Ncov(Covid-19) Tracker, An Assessment Built w/ Ng TypeScript coded by R. AIDY
 Built w/ stable Angular-ver12 + NPM's Ng-Bootstrap + Karma & Jasmine - Unit Test and 
 Securely Deployed on live Cloud Staging as Production - [https://ng-etiqa-covid-tracker.vercel.app/].<br>
-An Assessment Project  Requested by <b>ETIQA</b><br>The Leader with Islamic Takaful Businesses Insurance for ASEAN.<br>
+An Assessment Project  Requested by <b>"ETIQA"</b>Leader with Takaful Islamic Insurance Businesses for ASEAN.<br>
 ** TAKE NOTE :<br> This pwa angular ncov tracker should be running locally @ port:4200 in staging environment[inˈvīrənmənt] - http://localhost:4200/ **
 <img src="https://github.com/Rizq-Solutions/ng-etiqa-covid-tracker/blob/rizqbazaar/src/assets/img/theme/pan01.png" width="100%"><br>
 #### The Overview Page.
@@ -27,25 +27,17 @@ It has been reviewed with having lack of security features w/ with hosting our m
 These usage upon using Karma-Jasmine would let examiner runs & deploying this project w/o comcern on even checking console error logs while my assessment be scale.
 **
 
-** Frontend Developer Assessment**
-
-Etiqa Ncov Tracker were built using Angular & Bootstrap 4. So this dev are meant as an assessment for R. Aidy or JustEd, A Sr. Frontend Full Stack Dev/ Engineer.
-
-## Installation
+### NPM Installation Or
 $ yarn
 
-## Start at /localhost:4200
+### Running Load - localhost:4200 After CLI
 $ yarn start
 
-## Documentation
+### Documentation
 The documentation for the Angular is hosted at [Vercel](https://www.vercel.com/).
 
-
-## File Structure
-Within the download you'll find the following directories and files:
-
-```
-argon-dashboard-angular
+## File Structure 
+The flow below helps us on understanding the structure flow onhowto starting up project using modern days Angular Ngx's / TypeScript development.
 ├── CHANGELOG.md
 ├── README.md
 ├── angular.json
@@ -98,11 +90,11 @@ argon-dashboard-angular
 │   │   │   │   ├── dashboard.component.scss
 │   │   │   │   ├── dashboard.component.spec.ts
 │   │   │   │   └── dashboard.component.ts
-│   │   │   ├── maps-analytics
-│   │   │   │   ├── maps.component.html
-│   │   │   │   ├── maps.component.scss
-│   │   │   │   ├── maps.component.spec.ts
-│   │   │   │   └── maps.component.ts
+│   │   │   ├── analytics-chart
+│   │   │   │   ├── chart.component.html
+│   │   │   │   ├── chart.component.scss
+│   │   │   │   ├── chart.component.spec.ts
+│   │   │   │   └── chart.component.ts
 │   │   │   └── user-profile
 │   │   │       ├── user-profile.component.html
 │   │   │       ├── user-profile.component.scss
