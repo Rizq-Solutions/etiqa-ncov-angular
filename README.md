@@ -1,6 +1,6 @@
 ### (PWA) Progressive Web App Based - Ncov(Covid-19)Tracker Assessment by R. Aidy. 
-#### Deployed Built with Angular + Ng Bootstrap running as assessment project for R. Aidy as per required by<br> 
-Etiqa - The Islamic Leader for Takaful Insurances Business for ASEAN Region.
+#### Deployed Built with Angular + Ng Bootstrap running as assessment project as per requested by<br> 
+#### Etiqa ASEAN Islamic Leader for Takaful Insurances Businesses for ASEAN Region.
 ## ** Angular Live Development Server is listening on localhost:4200, open your browser on http://localhost:4200/ **
 
 ### Complex Documentation
