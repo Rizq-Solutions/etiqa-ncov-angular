@@ -1,14 +1,36 @@
+<<<<<<< HEAD
 # [Etiqa Ncov Tracker in Angular by R. Aidy]
 ## ** Angular Live Development Server is listening on localhost:4200, open your browser on http://localhost:4200/ **
 
 ### Complex Documentation
 ** A simple server for use in testing or debugging Angular applications locally.
 It hasn't been reviewed for security issues.
+=======
+### Etiqa Angular assessesment with Bootstrap 10.0.0 + Karma & Jasmine. Ncov(Covid-19) Tracker Frontend done built & deployed by R. Aidy.
+<img src="https://github.com/Rizq-Solutions/ng-etiqa-covid-tracker/blob/rizqbazaar/src/assets/img/theme/pan01.png" width="100%"><br>
+#### The Overview Page.
+<img src="https://github.com/Rizq-Solutions/ng-etiqa-covid-tracker/blob/rizqbazaar/src/assets/img/theme/pan02.png" width="100%"><br>
+####The Profile Page.
+<img src="https://github.com/Rizq-Solutions/ng-etiqa-covid-tracker/blob/rizqbazaar/src/assets/img/theme/pan03.png" width="100%"><br>
+####The GraphTracker Page.
+<img src="https://github.com/Rizq-Solutions/ng-etiqa-covid-tracker/blob/rizqbazaar/src/assets/img/theme/pan04.png" width="100%"><br>
+#### The Admin Drop Down Menu.
+<img src="https://github.com/Rizq-Solutions/ng-etiqa-covid-tracker/blob/rizqbazaar/src/assets/img/theme/pan05.png" width="100%"><br>
+#### Left Sidebar Navigation Menu.
+<img src="https://github.com/Rizq-Solutions/ng-etiqa-covid-tracker/blob/rizqbazaar/src/assets/img/theme/panorama.png" width="100%"><br>
+#### API taken from opensource https://disease.sh/docs 
+**
+## ** Angular Live Production will reload onto http://localhost:4200/ which is i'm using
+Karma-Jasmine open your browser to http://localhost:4200/ after cli your $ yarn start**
+>>>>>>> 6ce40bf1c2dac9ba4dadd634aa6869e2aaaf899e
 
-DON'T USE IT FOR PRODUCTION!
+### Complex Docs
+** A simple node server which running at port:4200 for unit testing this Angular locally. 
+It has been reviewed with having lack of security features w/ with hosting our master branches gitinores.
+These usage upon using Karma-Jasmine would let examiner runs & deploying this project w/o comcern on even checking console error logs while my assessment be scale.
 **
 
-**Frontend Developer Assessment**
+** Frontend Developer Assessment**
 
 Etiqa Ncov Tracker were built using Angular & Bootstrap 4. So this dev are meant as an assessment for R. Aidy or JustEd, A Sr. Frontend Full Stack Dev/ Engineer.
 
