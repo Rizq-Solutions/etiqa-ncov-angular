@@ -8,7 +8,7 @@
 <img src="https://github.com/Rizq-Solutions/ng-etiqa-covid-tracker/blob/rizqbazaar/src/assets/img/theme/pan04.png" width="100%"><br>
 ## The Admin Drop Down Menu.
 <img src="https://github.com/Rizq-Solutions/ng-etiqa-covid-tracker/blob/rizqbazaar/src/assets/img/theme/pan05.png" width="100%"><br>
-## The Overview Page.
+## Left Sidebar Navigation Menu.
 <img src="https://github.com/Rizq-Solutions/ng-etiqa-covid-tracker/blob/rizqbazaar/src/assets/img/theme/pan06.png" width="100%"><br>
 ## The Overview Page.
 ## ** Angular Live Development Server is listening on localhost:4200, open your browser on http://localhost:4200/ **
