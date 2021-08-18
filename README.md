@@ -1,5 +1,5 @@
 ## PWA Powered Angular ver 12+ FE Development:
-### API-WEB Based Ncov(Covid-19) Tracker, An Assessment Built w/ Ng TypeScript coded by R. AIDY
+## API-WEB Based Ncov(Covid-19) Tracker, An Assessment Built w/ Ng TypeScript coded by R. AIDY
 Built w/ stable Angular-ver12 + NPM's Ng-Bootstrap + Karma & Jasmine - Unit Test and 
 Securely Deployed on live Cloud Staging as Production - [https://ng-etiqa-covid-tracker.vercel.app/].<br>
 An Assessment Project  Requested by <b>"ETIQA"</b>Leader with Takaful Islamic Insurance Businesses for ASEAN.<br>
@@ -15,29 +15,22 @@ An Assessment Project  Requested by <b>"ETIQA"</b>Leader with Takaful Islamic In
 <img src="https://github.com/Rizq-Solutions/ng-etiqa-covid-tracker/blob/rizqbazaar/src/assets/img/theme/pan05.png" width="100%"><br>
 #### Left Sidebar Navigation Menu.
 <img src="https://github.com/Rizq-Solutions/ng-etiqa-covid-tracker/blob/rizqbazaar/src/assets/img/theme/panorama.png" width="100%"><br>
-#### API taken from opensource https://disease.sh/docs 
-**
-## ** Angular Live Production will reload onto http://localhost:4200/ which is i'm using
-Karma-Jasmine open your browser to http://localhost:4200/ after cli your $ yarn start**
->>>>>>> 6ce40bf1c2dac9ba4dadd634aa6869e2aaaf899e
-
-### Complex Docs
-** A simple node server which running at port:4200 for unit testing this Angular locally. 
-It has been reviewed with having lack of security features w/ with hosting our master branches gitinores.
-These usage upon using Karma-Jasmine would let examiner runs & deploying this project w/o comcern on even checking console error logs while my assessment be scale.
-**
-
-### NPM Installation Or
+<p>
+#### API's for WorldOdometer tracker - [https://disease.sh/]https://disease.sh/docs
+  
+#### INSTALLATION
 $ yarn
 
-### Running Load - localhost:4200 After CLI
+#### BUILD & DEPLOY ON LOCALHOST:4200 
 $ yarn start
 
-### Documentation
-The documentation for the Angular is hosted at [Vercel](https://www.vercel.com/).
+####  DOCUMENTATION
+Documentation on deploying Angular Project are hosted at [Vercel](https://www.vercel.com/).
 
-## File Structure 
-The flow below helps us on understanding the structure flow onhowto starting up project using modern days Angular Ngx's / TypeScript development.
+####  FILE PATH STRUCTURE 
+The flow below helps us on understanding the core structure starting up with modern days Angular development with recent Ngx's / TypeScript trends.
+```
+ng-etiqa-covid-tracker
 ├── CHANGELOG.md
 ├── README.md
 ├── angular.json
@@ -90,11 +83,11 @@ The flow below helps us on understanding the structure flow onhowto starting up 
 │   │   │   │   ├── dashboard.component.scss
 │   │   │   │   ├── dashboard.component.spec.ts
 │   │   │   │   └── dashboard.component.ts
-│   │   │   ├── analytics-chart
-│   │   │   │   ├── chart.component.html
-│   │   │   │   ├── chart.component.scss
-│   │   │   │   ├── chart.component.spec.ts
-│   │   │   │   └── chart.component.ts
+│   │   │   ├── maps-analytics
+│   │   │   │   ├── maps.component.html
+│   │   │   │   ├── maps.component.scss
+│   │   │   │   ├── maps.component.spec.ts
+│   │   │   │   └── maps.component.ts
 │   │   │   └── user-profile
 │   │   │       ├── user-profile.component.html
 │   │   │       ├── user-profile.component.scss
@@ -125,10 +118,10 @@ The flow below helps us on understanding the structure flow onhowto starting up 
 └── tslint.json
 ```
 
-## Supported Browser
+#### SUPPORTED BROWSER
 
 <img src="https://github.com/creativetimofficial/public-assets/blob/master/logos/chrome-logo.png?raw=true" width="64" height="64"> <img src="https://raw.githubusercontent.com/creativetimofficial/public-assets/master/logos/firefox-logo.png" width="64" height="64"> <img src="https://raw.githubusercontent.com/creativetimofficial/public-assets/master/logos/edge-logo.png" width="64" height="64"> <img src="https://raw.githubusercontent.com/creativetimofficial/public-assets/master/logos/safari-logo.png" width="64" height="64"> <img src="https://raw.githubusercontent.com/creativetimofficial/public-assets/master/logos/opera-logo.png" width="64" height="64">
 
-## Licensing
+#### LICENSING
 
 - Copyright 2021. Licensed Under MIT (https://opensource.org/licenses/MIT)
