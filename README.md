@@ -1,5 +1,4 @@
-<<<<<<< HEAD
-# [Etiqa Ncov Tracker in Angular by R. Aidy]
+### Ncov(Covid-19) Tracker Assessment for R. Aidy by Etiqa the leading islamic insurance/ takaful business in ASEAN region.
 ## ** Angular Live Development Server is listening on localhost:4200, open your browser on http://localhost:4200/ **
 
 ### Complex Documentation
