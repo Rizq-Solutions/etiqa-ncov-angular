@@ -3,11 +3,6 @@
 Built upon stable recent ver12 ++ Angular + NPM's Ng-Bootstrap deployed running live as project on Cloud - [https://ng-etiqa-covid-tracker.vercel.app/].
 A Project Assessment Required by "Etiqa", The Leader in Islamic Takaful Businesses Insurance for ASEAN.
 ### ** This PWA Angular will be locally running at port:4200 /localhost please point your browser  to - http://localhost:4200/ **
-
-### Complex Documentation
-** A simple server for use in testing or debugging Angular applications locally.
-It hasn't been reviewed for security issues.
-=======
 ### Etiqa Angular assessesment with Bootstrap 10.0.0 + Karma & Jasmine. Ncov(Covid-19) Tracker Frontend done built & deployed by R. Aidy.
 <img src="https://github.com/Rizq-Solutions/ng-etiqa-covid-tracker/blob/rizqbazaar/src/assets/img/theme/pan01.png" width="100%"><br>
 #### The Overview Page.
