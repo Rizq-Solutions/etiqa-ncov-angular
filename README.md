@@ -1,4 +1,5 @@
-### Ncov(Covid-19) Tracker Assessment for R. Aidy. All assessment tasks were ready by Etiqa the takaful islamic insurance for ASEAN region.
+### PWA Angular Based - Ncov(Covid-19)Tracker Assessment. 
+#### An Angular + Ng Bootstrap Frontend Development running as an assessment for R. Aidy required by Etiqa.<br> The Islamic Takaful Insurance Agency for ASEAN.
 ## ** Angular Live Development Server is listening on localhost:4200, open your browser on http://localhost:4200/ **
 
 ### Complex Documentation
