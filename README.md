@@ -1,7 +1,7 @@
-### Progressive Web App(PWA) Frontend Based - Ncov(Covid-19)Tracker Assessment done by R. Aidy. 
+## A Progressive Web App(PWA) Frontend Based - Ncov(Covid-19)Tracker Assessment done by R. Aidy. 
 Built using Angular + Ng-Bootstrap for an assessment project deployed live on Vercel Cloud Server for
 'Etiqa' The Islamic Leader for Takaful Businesses Insurances Agency for ASEAN Region.
-## ** Angular Live Development Server is listening on localhost:4200, open your browser on http://localhost:4200/ **
+### ** Angular Live Development Server is listening on localhost:4200, After installing CLI this with $ npm i or $ yarn please navigate point load your default browser - http://localhost:4200/ **
 
 ### Complex Documentation
 ** A simple server for use in testing or debugging Angular applications locally.
