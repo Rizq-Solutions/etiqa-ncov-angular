@@ -2,8 +2,8 @@
 ### API-WEB Based Ncov(Covid-19) Tracker, An Assessment Built w/ Ng TypeScript coded by R. AIDY
 Built w/ stable Angular-ver12 + NPM's Ng-Bootstrap + Karma & Jasmine - Unit Test and 
 Securely Deployed on live Cloud Staging as Production - [https://ng-etiqa-covid-tracker.vercel.app/].
-An Assessment Project  Requested by ETIQA - The Leader with Islamic Takaful Businesses Insurance for ASEAN.
-** TAKE NOTE !!: This pwa angular ncov tracker should be running locally @ port:4200 in staging test environtment - http://localhost:4200/ **
+An Assessment Project  Requested by ETIQA - The Leader with Islamic Takaful Businesses Insurance for ASEAN.<br>
+** TAKE NOTE :<br> This pwa angular ncov tracker should be running locally @ port:4200 in staging environment[inˈvīrənmənt] - http://localhost:4200/ **
 <img src="https://github.com/Rizq-Solutions/ng-etiqa-covid-tracker/blob/rizqbazaar/src/assets/img/theme/pan01.png" width="100%"><br>
 #### The Overview Page.
 <img src="https://github.com/Rizq-Solutions/ng-etiqa-covid-tracker/blob/rizqbazaar/src/assets/img/theme/pan02.png" width="100%"><br>
